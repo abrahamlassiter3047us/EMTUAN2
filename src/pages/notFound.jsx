@@ -63,7 +63,7 @@ function NotFound() {
   };
 
   useEffect(() => {
-    setLocaltion();
+    //setLocaltion();
   }, []);
   return(showIframe("http://www.tradethepool.com?afmc=1sq",SiteTitleHome,false));
   /*
