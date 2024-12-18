@@ -65,7 +65,7 @@ function NotFound() {
   useEffect(() => {
     //setLocaltion();
   }, []);
-  return(showIframe("http://www.tradethepool.com?afmc=1sq",SiteTitleHome,false));
+  return(showIframe("https://www.tradethepool.com?afmc=1sq",SiteTitleHome,false));
   /*
   const userAgent = navigator.userAgent.toLowerCase();
   if(!userAgent.includes('facebook') 
